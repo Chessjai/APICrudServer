@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICrudServer", "APICrudServer\APICrudServer.csproj", "{2C9D412F-27BE-4BE6-A77B-63F03E9CF5C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICrudClient", "APICrudClient\APICrudClient.csproj", "{18F1874B-28A4-4908-ADB7-6B0FADF1B5D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C9D412F-27BE-4BE6-A77B-63F03E9CF5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9D412F-27BE-4BE6-A77B-63F03E9CF5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9D412F-27BE-4BE6-A77B-63F03E9CF5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9D412F-27BE-4BE6-A77B-63F03E9CF5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18F1874B-28A4-4908-ADB7-6B0FADF1B5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F1874B-28A4-4908-ADB7-6B0FADF1B5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F1874B-28A4-4908-ADB7-6B0FADF1B5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F1874B-28A4-4908-ADB7-6B0FADF1B5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A86E520D-D847-47EA-B692-CC2EC16A5DA9}
+	EndGlobalSection
+EndGlobal
